@@ -12,7 +12,7 @@ function Home() {
       </div>
 
       <div className="text-center">
-        <img src={pastelHome} alt="pastelHome" />
+        <img src={pastelHome} alt="pastelHome" style={{width:"300px"}} />
       </div>
     </div>
   );
